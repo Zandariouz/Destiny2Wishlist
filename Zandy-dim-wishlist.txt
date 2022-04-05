@@ -1,0 +1,1234 @@
+title:Zandy's personal wishlist
+description:Simply rolls for PvP and PvE that I would like. Craftables are excluded since they can be crafted. Sidearms are for the most part excluded because I hate them, same with 180 handcannons.
+
+// Cantata-57 (PvP)
+//notes:PvP-
+dimwishlist:item=372697604&perks=699525795,47981717
+dimwishlist:item=372697604&perks=699525795,2846385770
+
+// Perses-D (PvE)
+//notes:PvE-
+dimwishlist:item=1019000888&perks=1583705720,3038247973
+dimwishlist:item=1019000888&perks=1583705720,124408337
+
+// Fugue-55 (PvP)
+//notes:PvP-
+dimwishlist:item=2233545123&perks=2866798147,957782887
+
+// Ogma PR6 (PvE)
+//notes:PvE-
+dimwishlist:item=2342054803&perks=3523296417,11612903
+dimwishlist:item=2342054803&perks=1583705720,4049631843
+dimwishlist:item=2342054803&perks=1048183818,2209918983
+
+// Krait (PvE)
+//notes:PvE-
+dimwishlist:item=2852052802&perks=1820235745,4049631843
+dimwishlist:item=2852052802&perks=1583705720,4049631843
+
+// Funnelweb (PvE)
+//notes:PvE-
+dimwishlist:item=3341893443&perks=1820235745,4104185692
+
+// Typhon GL5 (PvE)
+//notes:PvE-
+dimwishlist:item=3568377122&perks=951095735,3194351027
+
+// Snorri FR5 (PvE)
+//notes:PvE-
+dimwishlist:item=4114929480&perks=671806388,1427256713
+
+// Punching Out (PvE)
+//notes:PvE-
+dimwishlist:item=378498222&perks=1820235745,4104185692
+dimwishlist:item=378498222&perks=1820235745,1015611457
+dimwishlist:item=378498222&perks=1631667848,4082225868
+
+// Royal Entry (PvE)
+//notes:PvE-
+dimwishlist:item=2448907086&perks=3300816228,3927722942
+dimwishlist:item=2448907086&perks=3300816228,1275731761
+dimwishlist:item=2448907086&perks=3300816228,2396489472
+
+// Fortissimo-11 (PvE)
+//notes:PvE-
+dimwishlist:item=2821430069&perks=972757866,47981717
+dimwishlist:item=2821430069&perks=1428297954,47981717
+
+// Xenoclast IV (PvE)
+//notes:PvE-
+dimwishlist:item=2891672170&perks=1631667848,2679249093
+dimwishlist:item=2891672170&perks=3300816228,2360754333
+
+// The Third Axiom (PvE)
+//notes:PvE-
+dimwishlist:item=4156253727&perks=2779035018,3425386926
+dimwishlist:item=4156253727&perks=2779035018,2458213969
+dimwishlist:item=4156253727&perks=1820235745,3425386926
+dimwishlist:item=4156253727&perks=2779035018,2848615171
+dimwishlist:item=4156253727&perks=1820235745,2848615171
+
+// Empty Vessel (PvE)
+//notes:PvE-
+dimwishlist:item=4255586669&perks=3032599245,3300816228
+
+// Stars in Shadow (PvE)
+//notes:PvE-
+dimwishlist:item=2050789284&perks=1168162263,1015611457
+dimwishlist:item=2050789284&perks=2779035018,1015611457
+dimwishlist:item=2050789284&perks=2779035018,2848615171
+
+// Sorrow's Verse (PvE)
+//notes:PvE-
+dimwishlist:item=2496875173&perks=1820235745,4104185692
+dimwishlist:item=2496875173&perks=1820235745,3425386926
+dimwishlist:item=2496875173&perks=2779035018,3425386926
+dimwishlist:item=2496875173&perks=2779035018,2458213969
+
+// Frozen Orbit (PvP)
+//notes:PvP-
+dimwishlist:item=3473290087&perks=2866798147,957782887
+dimwishlist:item=3473290087&perks=2450788523,957782887
+dimwishlist:item=3473290087&perks=588594999,957782887
+
+// Borrowed Time (PvE)
+//notes:PvE-
+dimwishlist:item=875848769&perks=2450788523,4104185692
+dimwishlist:item=875848769&perks=2779035018,4104185692
+dimwishlist:item=875848769&perks=2779035018,3425386926
+dimwishlist:item=875848769&perks=2450788523,3425386926
+
+// Bottom Dollar (PvE)
+//notes:PvE-
+dimwishlist:item=1046651176&perks=1820235745,3038247973
+dimwishlist:item=1046651176&perks=1168162263,2848615171
+dimwishlist:item=1046651176&perks=1168162263,3425386926
+
+// Servant Leader (PvE)
+//notes:PvE-
+dimwishlist:item=1107446438&perks=2946784966,1015611457
+dimwishlist:item=1107446438&perks=1168162263,1015611457
+dimwishlist:item=1107446438&perks=1820235745,3425386926
+dimwishlist:item=1107446438&perks=1820235745,4104185692
+dimwishlist:item=1107446438&perks=1168162263,2458213969
+
+// Herod-C (PvE)
+//notes:PvE-
+dimwishlist:item=1788603939&perks=1820235745,4104185692
+dimwishlist:item=1788603939&perks=1820235745,4049631843
+dimwishlist:item=1788603939&perks=1820235745,124408337
+
+// Trinary System (PvE)
+//notes:PvE-
+dimwishlist:item=3258665412&perks=2779035018,4082225868
+
+// Trinary System (PvP)
+//notes:PvP-
+dimwishlist:item=3258665412&perks=706527188,1890422124
+dimwishlist:item=3258665412&perks=1645158859,2213355989
+dimwishlist:item=3258665412&perks=280464955,1890422124
+dimwishlist:item=3258665412&perks=706527188,1600092898
+
+// Crowd Pleaser (PvE)
+//notes:PvE-
+dimwishlist:item=3565520715&perks=2010801679,3523296417
+dimwishlist:item=3565520715&perks=2284787283,3523296417
+dimwishlist:item=3565520715&perks=2869569095,3523296417
+dimwishlist:item=3565520715&perks=2869569095,2396489472
+dimwishlist:item=3565520715&perks=2284787283,2396489472
+dimwishlist:item=3565520715&perks=2010801679,2396489472
+
+// The Fool's Remedy (PvE)
+//notes:PvE-
+dimwishlist:item=65611680&perks=2779035018,1015611457
+
+// The Fool's Remedy (PvP)
+//notes:PvP-
+dimwishlist:item=65611680&perks=588594999,1015611457
+dimwishlist:item=65611680&perks=1866048759,1015611457
+dimwishlist:item=65611680&perks=1866048759,2846385770
+dimwishlist:item=65611680&perks=588594999,2846385770
+
+// Riiswalker (PvP)
+//notes:PvP-
+dimwishlist:item=108221785&perks=706527188,591790007
+dimwishlist:item=108221785&perks=2039302152,591790007
+
+// Occluded Finality (PvP)
+//notes:PvP-
+dimwishlist:item=852551895&perks=2866798147,47981717
+dimwishlist:item=852551895&perks=1645158859,47981717
+dimwishlist:item=852551895&perks=957782887,47981717
+
+// The Forward Path (PvP)
+//notes:PvP-
+dimwishlist:item=1690783811&perks=1359896290,699525795
+dimwishlist:item=1690783811&perks=1359896290,1890422124
+dimwishlist:item=1690783811&perks=1866048759,1890422124
+dimwishlist:item=1690783811&perks=1866048759,699525795
+
+// Razor's Edge (PvE)
+//notes:PvE-
+dimwishlist:item=1796949035&perks=3108830275,2396489472
+
+// Archon's Thunder (PvP)
+//notes:PvP-
+dimwishlist:item=1967303408&perks=2846385770,11551321
+
+// Swarm of the Raven (PvP)
+//notes:PvP-
+dimwishlist:item=1972985595&perks=4071163871,706527188
+dimwishlist:item=1972985595&perks=4071163871,3425386926
+
+// Finite Impactor (PvE)
+//notes:PvE-
+dimwishlist:item=3813153080&perks=1583705720,4049631843
+
+// The Messenger (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=1173780905&perks=247725512,3047969693
+
+// The Messenger (PvP)
+//notes:PvP-
+dimwishlist:item=3658188704&perks=247725512,3047969693
+
+// Reed's Regret (PvE)
+//notes:PvE-
+dimwishlist:item=1399243961&perks=3400784728,1771339417
+dimwishlist:item=1399243961&perks=3400784728,2896038713
+dimwishlist:item=1399243961&perks=2284787283,1546637391
+dimwishlist:item=1399243961&perks=3300816228,1771339417
+dimwishlist:item=1399243961&perks=3300816228,2896038713
+dimwishlist:item=1399243961&perks=3300816228,1546637391
+
+// Reed's Regret (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=2475355656&perks=3300816228,1546637391
+dimwishlist:item=2475355656&perks=3300816228,1771339417
+dimwishlist:item=2475355656&perks=3300816228,2896038713
+dimwishlist:item=2475355656&perks=3400784728,2896038713
+dimwishlist:item=2475355656&perks=3400784728,1771339417
+dimwishlist:item=2475355656&perks=2284787283,1546637391
+
+// The Summoner (PvP)
+//notes:PvP-
+dimwishlist:item=1907698332&perks=2846385770,3425386926
+dimwishlist:item=1907698332&perks=1428297954,3425386926
+
+// The Summoner (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=3514144928&perks=2846385770,3425386926
+dimwishlist:item=3514144928&perks=1428297954,3425386926
+
+// Aisha's Embrace (PvE)
+//notes:PvE-
+dimwishlist:item=2638190703&perks=3400784728,1354429876
+
+// Aisha's Embrace (PvP)
+//notes:PvP-
+dimwishlist:item=2638190703&perks=1428297954,699525795
+dimwishlist:item=2638190703&perks=2946784966,699525795
+
+// Aisha's Embrace (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=3245493570&perks=3400784728,1354429876
+
+// Aisha's Embrace (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=3245493570&perks=1428297954,699525795
+dimwishlist:item=3245493570&perks=2946784966,699525795
+
+// Eye of Sol (PvP)
+//notes:PvP-
+dimwishlist:item=3164743584&perks=2866798147,957782887
+dimwishlist:item=3164743584&perks=588594999,957782887
+dimwishlist:item=3164743584&perks=588594999,47981717
+dimwishlist:item=3164743584&perks=2866798147,47981717
+dimwishlist:item=3164743584&perks=588594999,2846385770
+dimwishlist:item=3164743584&perks=2866798147,2846385770
+
+// Eye of Sol (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=3637570176&perks=588594999,957782887
+dimwishlist:item=3637570176&perks=588594999,47981717
+dimwishlist:item=3637570176&perks=588594999,2846385770
+dimwishlist:item=3637570176&perks=2866798147,2846385770
+dimwishlist:item=3637570176&perks=2866798147,47981717
+dimwishlist:item=3637570176&perks=2866798147,957782887
+
+// Shayura's Wrath (PvP)
+//notes:PvP-
+dimwishlist:item=3682803680&perks=2946784966,1015611457
+dimwishlist:item=3682803680&perks=1866048759,1015611457
+dimwishlist:item=3682803680&perks=1866048759,1890422124
+dimwishlist:item=3682803680&perks=1359896290,1890422124
+
+// Shayura's Wrath (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=4023807721&perks=2946784966,1015611457
+dimwishlist:item=4023807721&perks=1866048759,1015611457
+dimwishlist:item=4023807721&perks=1866048759,1890422124
+dimwishlist:item=4023807721&perks=1359896290,1890422124
+
+// The Palindrome (PvE)
+//notes:PvE-
+dimwishlist:item=432476743&perks=1583705720,4049631843
+
+// The Palindrome (PvP)
+//notes:PvP-
+dimwishlist:item=432476743&perks=2450788523,2846385770
+dimwishlist:item=432476743&perks=1168162263,2846385770
+
+// The Palindrome (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=1481892490&perks=1583705720,4049631843
+
+// The Palindrome (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=1481892490&perks=1168162263,2846385770
+dimwishlist:item=1481892490&perks=2450788523,2846385770
+
+// Duty Bound (PvE)
+//notes:PvE-
+dimwishlist:item=435216110&perks=1583705720,4049631843
+dimwishlist:item=435216110&perks=3400784728,1354429876
+
+// Duty Bound (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=1135050595&perks=1583705720,4049631843
+dimwishlist:item=1135050595&perks=3400784728,1354429876
+
+// PLUG ONE.1 (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=534775659&perks=1645158859,2652708987
+
+// PLUG ONE.1 (PvP)
+//notes:PvP-
+dimwishlist:item=1289000550&perks=1645158859,2652708987
+
+// Hung Jury SR4 (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=681067419&perks=247725512,3038247973
+dimwishlist:item=681067419&perks=588594999,3038247973
+
+// Hung Jury SR4 (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=681067419&perks=1820235745,3824105627
+dimwishlist:item=681067419&perks=1820235745,3038247973
+
+// Hung Jury SR4 (PvP)
+//notes:PvP-
+dimwishlist:item=4281371574&perks=588594999,3038247973
+dimwishlist:item=4281371574&perks=247725512,3038247973
+
+// Hung Jury SR4 (PvE)
+//notes:PvE-
+dimwishlist:item=4281371574&perks=1820235745,3038247973
+dimwishlist:item=4281371574&perks=1820235745,3824105627
+
+// The Comedian (PvE)
+//notes:PvE-
+dimwishlist:item=1028582252&perks=1820235745,1546637391
+dimwishlist:item=1028582252&perks=1556840489,1546637391
+
+// The Comedian (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=2443900757&perks=1556840489,1546637391
+dimwishlist:item=2443900757&perks=1820235745,1546637391
+
+// Silicon Neuroma (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=1387987271&perks=957782887,47981717
+
+// Silicon Neuroma (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=1387987271&perks=3400784728,1771339417
+dimwishlist:item=1387987271&perks=3400784728,2896038713
+
+// Silicon Neuroma (PvE)
+//notes:PvE-
+dimwishlist:item=3355385170&perks=3400784728,2896038713
+dimwishlist:item=3355385170&perks=3400784728,1771339417
+
+// Silicon Neuroma (PvP)
+//notes:PvP-
+dimwishlist:item=3355385170&perks=957782887,47981717
+
+// The Hothead (PvE)
+//notes:PvE-
+dimwishlist:item=4255171531&perks=2869569095,2284787283
+dimwishlist:item=4255171531&perks=3300816228,3927722942
+dimwishlist:item=4255171531&perks=3300816228,3194351027
+
+// The Hothead (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=1866778462&perks=2869569095,2284787283
+dimwishlist:item=1866778462&perks=3300816228,3927722942
+dimwishlist:item=1866778462&perks=3300816228,3194351027
+
+// Perses-D (PvP)
+//notes:PvP-
+dimwishlist:item=1019000888&perks=247725512,3038247973
+dimwishlist:item=1019000888&perks=1428297954,3038247973
+
+// Funnelweb (PvP)
+//notes:PvP-
+dimwishlist:item=3341893443&perks=2450788523,2846385770
+dimwishlist:item=3341893443&perks=1428297954,2846385770
+dimwishlist:item=3341893443&perks=972757866,2846385770
+
+// Snorri FR5 (PvP)
+//notes:PvP-
+dimwishlist:item=4114929480&perks=280464955,2213355989
+dimwishlist:item=4114929480&perks=280464955,2652708987
+
+// Punching Out (PvP)
+//notes:PvP-
+dimwishlist:item=378498222&perks=2846385770,1015611457
+dimwishlist:item=378498222&perks=2946784966,1015611457
+
+// Fortissimo-11 (PvP)
+//notes:PvP-
+dimwishlist:item=2821430069&perks=1428297954,47981717
+dimwishlist:item=2821430069&perks=1428297954,588594999
+dimwishlist:item=2821430069&perks=972757866,47981717
+dimwishlist:item=2821430069&perks=972757866,588594999
+dimwishlist:item=2821430069&perks=1428297954,3673922083
+dimwishlist:item=2821430069&perks=972757866,3673922083
+dimwishlist:item=2821430069&perks=4071163871,3673922083
+dimwishlist:item=2821430069&perks=3436462433,3673922083
+dimwishlist:item=2821430069&perks=3108830275,3673922083
+
+// Xenoclast IV (PvP)
+//notes:PvP-
+dimwishlist:item=2891672170&perks=3161816588,2450788523
+dimwishlist:item=2891672170&perks=3161816588,699525795
+dimwishlist:item=2891672170&perks=1866048759,2450788523
+dimwishlist:item=2891672170&perks=1866048759,699525795
+
+// The Third Axiom (PvP)
+//notes:PvP-
+dimwishlist:item=4156253727&perks=2846385770,3425386926
+dimwishlist:item=4156253727&perks=2846385770,460017080
+dimwishlist:item=4156253727&perks=588594999,460017080
+dimwishlist:item=4156253727&perks=588594999,3425386926
+
+// Stars in Shadow (PvP)
+//notes:PvP-
+dimwishlist:item=2050789284&perks=2450788523,588594999
+dimwishlist:item=2050789284&perks=2450788523,460017080
+dimwishlist:item=2050789284&perks=2450788523,1015611457
+
+// 
+//notes:
+
+// Eyasluna (PvP)
+//notes:PvP-
+dimwishlist:item=235827225&perks=247725512,588594999
+dimwishlist:item=235827225&perks=247725512,1015611457
+dimwishlist:item=235827225&perks=1428297954,588594999
+dimwishlist:item=235827225&perks=1428297954,1015611457
+dimwishlist:item=235827225&perks=2846385770,588594999
+dimwishlist:item=235827225&perks=2846385770,1015611457
+
+// Eyasluna (PvE)
+//notes:PvE-
+dimwishlist:item=235827225&perks=1168162263,1015611457
+
+// Retraced Path (PvP)
+//notes:PvP-
+dimwishlist:item=548958835&perks=1428297954,438098033
+
+// Retraced Path (PvE)
+//notes:PvE-
+dimwishlist:item=548958835&perks=1820235745,4049631843
+dimwishlist:item=548958835&perks=1820235745,4104185692
+
+// Wastelander M5 (PvP)
+//notes:PvP-
+dimwishlist:item=1679868061&perks=1428297954,47981717
+dimwishlist:item=1679868061&perks=3161816588,47981717
+dimwishlist:item=1679868061&perks=3161816588,2450788523
+dimwishlist:item=1679868061&perks=1428297954,2450788523
+
+// Wastelander M5 (PvE)
+//notes:PvE-
+dimwishlist:item=1679868061&perks=1556840489,2360754333
+dimwishlist:item=1679868061&perks=1556840489,2679249093
+dimwishlist:item=1679868061&perks=1820235745,2679249093
+dimwishlist:item=1679868061&perks=1820235745,2360754333
+
+// Hero of Ages (PvE)
+//notes:PvE-
+dimwishlist:item=2139640995&perks=2590710093,2396489472
+dimwishlist:item=2139640995&perks=1749209109,2396489472
+dimwishlist:item=2139640995&perks=3523296417,2396489472
+
+// Matador 64 (PvP)
+//notes:PvP-
+dimwishlist:item=2563012876&perks=1428297954,47981717
+dimwishlist:item=2563012876&perks=972757866,47981717
+dimwishlist:item=2563012876&perks=972757866,2450788523
+dimwishlist:item=2563012876&perks=1428297954,2450788523
+dimwishlist:item=2563012876&perks=4071163871,47981717
+dimwishlist:item=2563012876&perks=4071163871,2450788523
+
+// Matador 64 (PvE)
+//notes:PvE-
+dimwishlist:item=2563012876&perks=1556840489,2679249093
+dimwishlist:item=2563012876&perks=1556840489,4082225868
+
+// BxR-55 Battler (PvE)
+//notes:PvE-
+dimwishlist:item=2708806099&perks=1168162263,1015611457
+dimwishlist:item=2708806099&perks=3523296417,11612903
+dimwishlist:item=2708806099&perks=3523296417,1015611457
+
+// BxR-55 Battler (PvP)
+//notes:PvP-
+dimwishlist:item=2708806099&perks=1168162263,1015611457
+dimwishlist:item=2708806099&perks=1428297954,1015611457
+dimwishlist:item=2708806099&perks=1428297954,699525795
+dimwishlist:item=2708806099&perks=2450788523,2846385770
+dimwishlist:item=2708806099&perks=2450788523,699525795
+dimwishlist:item=2708806099&perks=2450788523,1015611457
+dimwishlist:item=2708806099&perks=1428297954,2846385770
+
+// Half-Truths (PvE)
+//notes:PvE-
+dimwishlist:item=3257091166&perks=1749209109,2077819806
+dimwishlist:item=3257091166&perks=2590710093,2077819806
+
+// The Other Half (PvE)
+//notes:PvE-
+dimwishlist:item=3257091167&perks=2077819806,3913600130
+dimwishlist:item=3257091167&perks=2077819806,1546637391
+dimwishlist:item=3257091167&perks=2077819806,4104185692
+
+// Pardon Our Dust (PvE)
+//notes:PvE-
+dimwishlist:item=3849810018&perks=3032599245,3300816228
+
+// 1000 Yard Stare (PvP)
+//notes:PvP-
+dimwishlist:item=4164201232&perks=2866798147,957782887
+dimwishlist:item=4164201232&perks=2866798147,588594999
+dimwishlist:item=4164201232&perks=1428297954,957782887
+dimwishlist:item=4164201232&perks=1428297954,588594999
+dimwishlist:item=4164201232&perks=706527188,588594999
+dimwishlist:item=4164201232&perks=706527188,957782887
+dimwishlist:item=4164201232&perks=280464955,957782887
+dimwishlist:item=4164201232&perks=280464955,588594999
+
+// Arctic Haze (PvE)
+//notes:PvE-
+dimwishlist:item=20935540&perks=1820235745,2848615171
+dimwishlist:item=20935540&perks=1820235745,3108830275
+
+// Arctic Haze (PvP)
+//notes:PvP-
+dimwishlist:item=20935540&perks=2450788523,699525795
+
+// Subzero Salvo (PvE)
+//notes:PvE-
+dimwishlist:item=42351395&perks=2010801679,1275731761
+dimwishlist:item=42351395&perks=2010801679,2396489472
+
+// Subzero Salvo (PvP)
+//notes:PvP-
+dimwishlist:item=42351395&perks=706527188,1275731761
+
+// Biting Winds (PvE)
+//notes:PvE-
+dimwishlist:item=1621657423&perks=247725512,3365897133
+dimwishlist:item=1621657423&perks=247725512,4082225868
+
+// Thermal Erosion (PvE)
+//notes:PvE-
+dimwishlist:item=1766088024&perks=2869569095,2848615171
+dimwishlist:item=1766088024&perks=2869569095,3523296417
+
+// Coriolis Force (PvP)
+//notes:PvP-
+dimwishlist:item=3512349612&perks=1645158859,2846385770
+dimwishlist:item=3512349612&perks=1645158859,699525795
+dimwishlist:item=3512349612&perks=1645158859,2039302152
+dimwishlist:item=3512349612&perks=972757866,2039302152
+dimwishlist:item=3512349612&perks=2450788523,2039302152
+dimwishlist:item=3512349612&perks=588594999,2039302152
+dimwishlist:item=3512349612&perks=972757866,2846385770
+dimwishlist:item=3512349612&perks=972757866,699525795
+dimwishlist:item=3512349612&perks=2450788523,699525795
+dimwishlist:item=3512349612&perks=2450788523,2846385770
+dimwishlist:item=3512349612&perks=588594999,2846385770
+dimwishlist:item=3512349612&perks=588594999,699525795
+
+// Bonechiller (PvP)
+//notes:PvP-
+dimwishlist:item=4037745684&perks=280464955,47981717
+
+// Bonechiller (PvE)
+//notes:PvE-
+dimwishlist:item=4037745684&perks=1556840489,2848615171
+dimwishlist:item=4037745684&perks=3300816228,2848615171
+
+// Trustee (PvP)
+//notes:PvP-
+dimwishlist:item=1392919471&perks=2450788523,2213355989
+dimwishlist:item=1392919471&perks=1645158859,2213355989
+dimwishlist:item=1392919471&perks=2450788523,699525795
+dimwishlist:item=1392919471&perks=1645158859,699525795
+
+// Trustee (PvE)
+//notes:PvE-
+dimwishlist:item=1392919471&perks=1168162263,2213355989
+dimwishlist:item=1392919471&perks=1645158859,2213355989
+dimwishlist:item=1392919471&perks=1645158859,3201496230
+
+// Succession (PvE)
+//notes:PvE-
+dimwishlist:item=2990047042&perks=1523832109,469285294
+
+// Succession (PvP)
+//notes:PvP-
+dimwishlist:item=2990047042&perks=2866798147,957782887
+dimwishlist:item=2990047042&perks=588594999,957782887
+dimwishlist:item=2990047042&perks=2450788523,957782887
+
+// Bequest (PvE)
+//notes:PvE-
+dimwishlist:item=3366545721&perks=1749209109,354401740
+dimwishlist:item=3366545721&perks=2590710093,354401740
+dimwishlist:item=3366545721&perks=2590710093,1685431615
+dimwishlist:item=3366545721&perks=1749209109,1685431615
+
+// Commemoration (PvE)
+//notes:PvE-
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=1523832109,2848615171
+dimwishlist:item=4230965989&perks=2779035018,1645158859
+dimwishlist:item=4230965989&perks=2779035018,2848615171
+dimwishlist:item=4230965989&perks=2779035018,3425386926
+
+// Heritage (PvE)
+//notes:PvE-
+dimwishlist:item=4248569242&perks=1523832109,469285294
+
+// Heritage (PvP)
+//notes:PvP-
+dimwishlist:item=4248569242&perks=3161816588,588594999
+dimwishlist:item=4248569242&perks=3161816588,957782887
+dimwishlist:item=4248569242&perks=3161816588,2450788523
+dimwishlist:item=4248569242&perks=1866048759,2450788523
+dimwishlist:item=4248569242&perks=1866048759,957782887
+dimwishlist:item=4248569242&perks=1866048759,588594999
+
+// Apostate (PvP)
+//notes:PvP-
+dimwishlist:item=2164448701&perks=2866798147,47981717
+dimwishlist:item=2164448701&perks=2866798147,706527188
+dimwishlist:item=2164448701&perks=280464955,706527188
+dimwishlist:item=2164448701&perks=280464955,47981717
+dimwishlist:item=2164448701&perks=2450788523,47981717
+dimwishlist:item=2164448701&perks=2450788523,706527188
+
+// Apostate (PvE)
+//notes:PvE-
+dimwishlist:item=2164448701&perks=1168162263,1015611457
+dimwishlist:item=2164448701&perks=1556840489,1015611457
+dimwishlist:item=2164448701&perks=1556840489,3038247973
+
+// Blasphemer (PvP)
+//notes:PvP-
+dimwishlist:item=2782847179&perks=1866048759,588594999
+dimwishlist:item=2782847179&perks=706527188,588594999
+dimwishlist:item=2782847179&perks=706527188,47981717
+dimwishlist:item=2782847179&perks=1866048759,47981717
+dimwishlist:item=2782847179&perks=4071163871,47981717
+dimwishlist:item=2782847179&perks=4071163871,588594999
+
+// Heretic (PvE)
+//notes:PvE-
+dimwishlist:item=3067821200&perks=951095735,3927722942
+dimwishlist:item=3067821200&perks=951095735,1275731761
+dimwishlist:item=3067821200&perks=2010801679,1275731761
+dimwishlist:item=3067821200&perks=2010801679,3927722942
+dimwishlist:item=3067821200&perks=2869569095,3927722942
+dimwishlist:item=3067821200&perks=2869569095,1275731761
+
+// Premonition (PvE)
+//notes:PvE-
+dimwishlist:item=208088207&perks=2779035018,3425386926
+dimwishlist:item=208088207&perks=2779035018,2213355989
+
+// Premonition (PvP)
+//notes:PvP-
+dimwishlist:item=208088207&perks=2450788523,3425386926
+dimwishlist:item=208088207&perks=2450788523,460017080
+dimwishlist:item=208088207&perks=588594999,460017080
+dimwishlist:item=208088207&perks=588594999,3425386926
+
+// One Small Step (PvE)
+//notes:PvE-
+dimwishlist:item=1016668089&perks=3300816228,2679249093
+dimwishlist:item=1016668089&perks=3300816228,2360754333
+
+// Tranquility (PvE)
+//notes:PvE-
+dimwishlist:item=1645386487&perks=3300816228,1771339417
+
+// Tranquility (PvP)
+//notes:PvP-
+dimwishlist:item=1645386487&perks=2866798147,957782887
+dimwishlist:item=1645386487&perks=1645158859,957782887
+
+// Arc Logic (PvE)
+//notes:PvE-
+dimwishlist:item=2723909519&perks=1820235745,4104185692
+dimwishlist:item=2723909519&perks=1820235745,3425386926
+
+// Dream Breaker (PvP)
+//notes:PvP-
+dimwishlist:item=2931957300&perks=1645158859,2213355989
+dimwishlist:item=2931957300&perks=280464955,2213355989
+
+// Dream Breaker (PvE)
+//notes:PvE-
+dimwishlist:item=2931957300&perks=1556840489,4104185692
+
+// Night Terror (PvE)
+//notes:PvE-
+dimwishlist:item=3870811754&perks=1749209109,1546637391
+
+// Loud Lullaby (PvE)
+//notes:PvE-
+dimwishlist:item=3924212056&perks=1820235745,4104185692
+dimwishlist:item=3924212056&perks=1820235745,3038247973
+dimwishlist:item=3924212056&perks=1820235745,1015611457
+
+// Loud Lullaby (PvP)
+//notes:PvP-
+dimwishlist:item=3924212056&perks=2946784966,1015611457
+dimwishlist:item=3924212056&perks=588594999,699525795
+dimwishlist:item=3924212056&perks=588594999,3038247973
+
+// Every Waking Moment (PvE)
+//notes:PvE-
+dimwishlist:item=4277547616&perks=1820235745,2848615171
+
+// Every Waking Moment (PvP)
+//notes:PvP-
+dimwishlist:item=4277547616&perks=2846385770,1015611457
+
+// The Last Breath (PvE)
+//notes:PvE-
+dimwishlist:item=507038823&perks=1820235745,4104185692
+dimwishlist:item=507038823&perks=1820235745,4049631843
+dimwishlist:item=507038823&perks=3523296417,11612903
+
+// The Last Breath (PvP)
+//notes:PvP-
+dimwishlist:item=507038823&perks=1359896290,2846385770
+dimwishlist:item=507038823&perks=2450788523,2846385770
+
+// Judgment (PvP)
+//notes:PvP-
+dimwishlist:item=1476654960&perks=588594999,47981717
+dimwishlist:item=1476654960&perks=588594999,1954620775
+
+// Judgment (PvE)
+//notes:PvE-
+dimwishlist:item=1476654960&perks=3523296417,11612903
+
+// Darkest Before (PvE)
+//notes:PvE-
+dimwishlist:item=2481758391&perks=1820235745,3425386926
+
+// A Sudden Death (PvE)
+//notes:PvE-
+dimwishlist:item=2855157553&perks=1631667848,2679249093
+
+// The Long Walk (PvP)
+//notes:PvP-
+dimwishlist:item=3326850591&perks=1168162263,957782887
+dimwishlist:item=3326850591&perks=2450788523,957782887
+dimwishlist:item=3326850591&perks=2450788523,588594999
+dimwishlist:item=3326850591&perks=1168162263,588594999
+
+// Ancient Gospel (PvE)
+//notes:PvE-
+dimwishlist:item=48643186&perks=1168162263,1015611457
+
+// Ancient Gospel (PvP)
+//notes:PvP-
+dimwishlist:item=48643186&perks=247725512,2846385770
+dimwishlist:item=48643186&perks=699525795,2846385770
+
+// Zealot's Reward (PvP)
+//notes:PvP-
+dimwishlist:item=2209003210&perks=1645158859,2213355989
+
+// Zealot's Reward (PvE)
+//notes:PvE-
+dimwishlist:item=2209003210&perks=2779035018,3425386926
+
+// Reckless Oracle (PvE)
+//notes:PvE-
+dimwishlist:item=3385326721&perks=1168162263,1015611457
+
+// Omniscient Eye (PvP)
+//notes:PvP-
+dimwishlist:item=3454326177&perks=2866798147,957782887
+dimwishlist:item=3454326177&perks=3513791699,957782887
+
+// Prophet of Doom (PvE)
+//notes:PvE-
+dimwishlist:item=4020742303&perks=2779035018,3425386926
+
+// Accrued Redemption (PvE)
+//notes:PvE-
+dimwishlist:item=4095896073&perks=201365942,3365897133
+dimwishlist:item=4095896073&perks=201365942,3425386926
+
+// Accrued Redemption (PvP)
+//notes:PvP-
+dimwishlist:item=4095896073&perks=2846385770,588594999
+
+// Waking Vigil (PvP)
+//notes:PvP-
+dimwishlist:item=334171687&perks=2846385770,47981717
+dimwishlist:item=334171687&perks=247725512,47981717
+dimwishlist:item=334171687&perks=2450788523,47981717
+
+// Waking Vigil (PvE)
+//notes:PvE-
+dimwishlist:item=334171687&perks=1168162263,1015611457
+
+// Retold Tale (PvP)
+//notes:PvP-
+dimwishlist:item=346136302&perks=706527188,957782887
+dimwishlist:item=346136302&perks=3161816588,957782887
+
+// Tigerspite (PvE)
+//notes:PvE-
+dimwishlist:item=640114618&perks=1168162263,1015611457
+dimwishlist:item=640114618&perks=1820235745,4104185692
+
+// Abide the Return (PvE)
+//notes:PvE-
+dimwishlist:item=1644160541&perks=1749209109,3913600130
+
+// Vouchsafe (PvP)
+//notes:PvP-
+dimwishlist:item=3242168339&perks=247725512,699525795
+dimwishlist:item=3242168339&perks=2450788523,699525795
+dimwishlist:item=3242168339&perks=2450788523,3038247973
+dimwishlist:item=3242168339&perks=247725512,3038247973
+
+// Twilight Oath (PvP)
+//notes:PvP-
+dimwishlist:item=3297863558&perks=47981717,957782887
+dimwishlist:item=3297863558&perks=2866798147,957782887
+dimwishlist:item=3297863558&perks=2450788523,957782887
+
+// Sleepless (PvE)
+//notes:PvE-
+dimwishlist:item=3740842661&perks=2869569095,1546637391
+dimwishlist:item=3740842661&perks=3300816228,1546637391
+dimwishlist:item=3740842661&perks=3300816228,2396489472
+
+// Chattering Bone (PvP)
+//notes:PvP-
+dimwishlist:item=568515759&perks=47981717,460017080
+dimwishlist:item=568515759&perks=2846385770,460017080
+
+// Chattering Bone (PvE)
+//notes:PvE-
+dimwishlist:item=568515759&perks=1168162263,3425386926
+
+// Nation of Beasts (PvE)
+//notes:PvE-
+dimwishlist:item=654370424&perks=1168162263,1015611457
+
+// The Supremacy (PvP)
+//notes:PvP-
+dimwishlist:item=686951703&perks=957782887,1015611457
+
+// Tyranny of Heaven (PvE)
+//notes:PvE-
+dimwishlist:item=2721249463&perks=201365942,3365897133
+dimwishlist:item=2721249463&perks=201365942,3425386926
+
+// Transfiguration (PvP)
+//notes:PvP-
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+
+// Techeun Force (PvE)
+//notes:PvE-
+dimwishlist:item=4094657108&perks=1015611457,3425386926
+
+// Techeun Force (PvP)
+//notes:PvP-
+dimwishlist:item=4094657108&perks=1645158859,2213355989
+
+// Seventh Seraph VY-7 (PvE)
+//notes:PvE-
+dimwishlist:item=766323545&perks=1354429876,2848615171
+
+// Seventh Seraph Carbine (PvE)
+//notes:PvE-
+dimwishlist:item=1561006927&perks=1354429876,3425386926
+dimwishlist:item=1561006927&perks=1354429876,4082225868
+
+// Seventh Seraph CQC-12 (PvP)
+//notes:PvP-
+dimwishlist:item=1821724780&perks=706527188,1546637391
+dimwishlist:item=1821724780&perks=706527188,957782887
+
+// Seventh Seraph SAW (PvE)
+//notes:PvE-
+dimwishlist:item=2582755344&perks=3300816228,1546637391
+dimwishlist:item=2582755344&perks=2284787283,1771339417
+
+// Temptation's Hook (PvE)
+//notes:PvE-
+dimwishlist:item=35794111&perks=1749209109,1546637391
+dimwishlist:item=35794111&perks=2590710093,1546637391
+dimwishlist:item=35794111&perks=1749209109,3913600130
+
+// Whispering Slab (PvE)
+//notes:PvE-
+dimwishlist:item=211938782&perks=201365942,4082225868
+
+// Hollow Words (PvP)
+//notes:PvP-
+dimwishlist:item=607191995&perks=706527188,1600092898
+dimwishlist:item=607191995&perks=706527188,1546637391
+
+// Falling Guillotine (PvE)
+//notes:PvE-
+dimwishlist:item=614426548&perks=2590710093,3913600130
+dimwishlist:item=614426548&perks=2590710093,1685431615
+dimwishlist:item=614426548&perks=1749209109,3913600130
+
+// Cold Denial (PvP)
+//notes:PvP-
+dimwishlist:item=1216130969&perks=2450788523,460017080
+dimwishlist:item=1216130969&perks=2450788523,699525795
+
+// False Promises (PvE)
+//notes:PvE-
+dimwishlist:item=3143732432&perks=1820235745,3425386926
+
+// Deafening Whisper (PvE)
+//notes:PvE-
+dimwishlist:item=981718087&perks=2010801679,3425386926
+dimwishlist:item=981718087&perks=3436462433,3300816228
+
+// Friction Fire (PvE)
+//notes:PvE-
+dimwishlist:item=1513993763&perks=1820235745,3425386926
+
+// Blast Battue (PvE)
+//notes:PvE-
+dimwishlist:item=2453357042&perks=2284787283,2396489472
+dimwishlist:item=2453357042&perks=2284787283,3425386926
+
+// Corsair's Wrath (PvP)
+//notes:PvP-
+dimwishlist:item=2714022207&perks=588594999,706527188
+dimwishlist:item=2714022207&perks=2866798147,706527188
+dimwishlist:item=2714022207&perks=2866798147,2213355989
+dimwishlist:item=2714022207&perks=588594999,2213355989
+
+// Royal Chase (PvP)
+//notes:PvP-
+dimwishlist:item=2776503072&perks=2866798147,2848615171
+
+// Threaded Needle (PvE)
+//notes:PvE-
+dimwishlist:item=3075224551&perks=2284787283,1546637391
+
+// Imperial Needle (PvE)
+//notes:PvE-
+dimwishlist:item=3460122497&perks=201365942,4104185692
+dimwishlist:item=3460122497&perks=201365942,4082225868
+
+// Imperial Needle (PvP)
+//notes:PvP-
+dimwishlist:item=3460122497&perks=201365942,47981717
+dimwishlist:item=3460122497&perks=1866048759,47981717
+
+// Code Duello (PvE)
+//notes:PvE-
+dimwishlist:item=2496242052&perks=2869569095,3927722942
+dimwishlist:item=2496242052&perks=3300816228,3927722942
+
+// Extraordinary Rendition (PvE)
+//notes:PvE-
+dimwishlist:item=1097616550&perks=1820235745,4104185692
+dimwishlist:item=1097616550&perks=1820235745,3425386926
+dimwishlist:item=1097616550&perks=1820235745,4049631843
+
+// Extraordinary Rendition (PvP)
+//notes:PvP-
+dimwishlist:item=1097616550&perks=2387244414,1890422124
+
+// Far Future (PvP)
+//notes:PvP-
+dimwishlist:item=893527433&perks=588594999,47981717
+dimwishlist:item=893527433&perks=706527188,47981717
+
+// Sojourner's Tale (PvP)
+//notes:PvP-
+dimwishlist:item=599895591&perks=706527188,47981717
+dimwishlist:item=599895591&perks=588594999,47981717
+
+// Sojourner's Tale (PvE)
+//notes:PvE-
+dimwishlist:item=599895591&perks=3300816228,4104185692
+
+// Chroma Rush (PvE)
+//notes:PvE-
+dimwishlist:item=1119734784&perks=1820235745,3425386926
+dimwishlist:item=1119734784&perks=2779035018,1015611457
+
+// Chroma Rush (PvP)
+//notes:PvP-
+dimwishlist:item=1119734784&perks=588594999,1890422124
+
+// Chrysura Melo (PvE)
+//notes:PvE-
+dimwishlist:item=1337707096&perks=1354429876,4104185692
+dimwishlist:item=1337707096&perks=1168162263,2458213969
+
+// Canis Major (PvE)
+//notes:PvE-
+dimwishlist:item=2066434718&perks=2284787283,1546637391
+dimwishlist:item=2066434718&perks=2284787283,2396489472
+dimwishlist:item=2066434718&perks=951095735,2396489472
+dimwishlist:item=2066434718&perks=951095735,1546637391
+dimwishlist:item=2066434718&perks=2284787283,1015611457
+dimwishlist:item=2066434718&perks=2284787283,3425386926
+
+// Iota Draconis (PvP)
+//notes:PvP-
+dimwishlist:item=3044460004&perks=1645158859,2213355989
+
+// Iota Draconis (PvE)
+//notes:PvE-
+dimwishlist:item=3044460004&perks=2779035018,4104185692
+
+// Fractethyst (PvP)
+//notes:PvP-
+dimwishlist:item=3184681056&perks=706527188,47981717
+
+// Wolftone Draw (PvE)
+//notes:PvE-
+dimwishlist:item=3472875143&perks=201365942,4104185692
+dimwishlist:item=3472875143&perks=201365942,2848615171
+dimwishlist:item=3472875143&perks=201365942,3673922083
+
+// BrayTech Werewolf (PvE)
+//notes:PvE-
+dimwishlist:item=528834068&perks=1354429876,4082225868
+
+// BrayTech Werewolf (PvP)
+//notes:PvP-
+dimwishlist:item=528834068&perks=1359896290,1890422124
+
+// Scathelocke (PvE)
+//notes:PvE-
+dimwishlist:item=602618796&perks=1820235745,3425386926
+
+// Gnawing Hunger (PvE)
+//notes:PvE-
+dimwishlist:item=821154603&perks=1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,4082225868
+
+// The Forward Path (PvE)
+//notes:PvE-
+dimwishlist:item=1690783811&perks=2779035018,4082225868
+dimwishlist:item=1690783811&perks=2779035018,2458213969
+
+// Shadow Price (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=2147010335&perks=2779035018,4082225868
+
+// Shadow Price (PvE)
+//notes:PvE-
+dimwishlist:item=2633186522&perks=2779035018,4082225868
+
+// Horror Story (PvP)
+//notes:PvP-
+dimwishlist:item=3829285960&perks=2450788523,588594999
+
+// Night Watch (PvP)
+//notes:PvP-
+dimwishlist:item=3504336176&perks=247725512,3038247973
+dimwishlist:item=3504336176&perks=247725512,588594999
+
+// Night Watch (PvE)
+//notes:PvE-
+dimwishlist:item=3504336176&perks=1820235745,3425386926
+
+// Escape Velocity (PvE)
+//notes:PvE-
+dimwishlist:item=1786797708&perks=3643424744,1774574192
+
+// The Deicide (PvE)
+//notes:PvE-
+dimwishlist:item=217140611&perks=1631667848,2679249093
+
+// Contingency Plan (PvE)
+//notes:PvE-
+dimwishlist:item=577528837&perks=1820235745,4104185692
+
+// Contingency Plan (PvP)
+//notes:PvP-
+dimwishlist:item=577528837&perks=2946784966,1015611457
+
+// IKELOS_SG_v1.0.2 (PvE)
+//notes:PvE-
+dimwishlist:item=1096206669&perks=2779035018,2360754333
+dimwishlist:item=1096206669&perks=2779035018,3425386926
+dimwishlist:item=1096206669&perks=2779035018,1546637391
+dimwishlist:item=1096206669&perks=1556840489,1546637391
+
+// IKELOS_HC_v1.0.2 (PvE)
+//notes:PvE-
+dimwishlist:item=1200824700&perks=1820235745,3425386926
+
+// IKELOS_SR_v1.0.2 (PvP)
+//notes:PvP-
+dimwishlist:item=1253087083&perks=2866798147,706527188
+dimwishlist:item=1253087083&perks=588594999,706527188
+dimwishlist:item=1253087083&perks=1354429876,2551157718
+dimwishlist:item=1253087083&perks=3400784728,2551157718
+
+// Widow's Bite (PvP)
+//notes:PvP-
+dimwishlist:item=1271343896&perks=280464955,706527188
+dimwishlist:item=1271343896&perks=280464955,47981717
+dimwishlist:item=1271343896&perks=280464955,699525795
+
+// IKELOS_SR_v1.0.2 (PvE)
+//notes:PvE-
+dimwishlist:item=1253087083&perks=3400784728,2551157718
+dimwishlist:item=1253087083&perks=1354429876,2551157718
+
+// Retrofuturist (PvP)
+//notes:PvP-
+dimwishlist:item=1402766122&perks=706527188,957782887
+dimwishlist:item=1402766122&perks=1866048759,957782887
+dimwishlist:item=1402766122&perks=972757866,957782887
+
+// Retrofuturist (PvE)
+//notes:PvE-
+dimwishlist:item=1402766122&perks=2779035018,4082225868
+
+// Truthteller (PvE)
+//notes:PvE-
+dimwishlist:item=1946491241&perks=3032599245,3300816228
+
+// IKELOS_SMG_v1.0.2 (PvP)
+//notes:PvP-
+dimwishlist:item=2222560548&perks=1359896290,1890422124
+
+// Interference VI (PvE)
+//notes:PvE-
+dimwishlist:item=2257180473&perks=3300816228,2888557110
+
+// Stochastic Variable (PvE)
+//notes:PvE-
+dimwishlist:item=2272470786&perks=2010801679,2458213969
+dimwishlist:item=2272470786&perks=2779035018,2458213969
+dimwishlist:item=2272470786&perks=2779035018,2848615171
+
+// Cartesian Coordinate (PvP)
+//notes:PvP-
+dimwishlist:item=2481881293&perks=1645158859,2213355989
+dimwishlist:item=2481881293&perks=2779035018,4082225868
+
+// Death Adder (PvP)
+//notes:PvP-
+dimwishlist:item=2742490609&perks=1359896290,2846385770
+dimwishlist:item=2742490609&perks=1359896290,588594999
+dimwishlist:item=2742490609&perks=1866048759,588594999
+dimwishlist:item=2742490609&perks=1866048759,2846385770
+dimwishlist:item=2742490609&perks=1866048759,699525795
+dimwishlist:item=2742490609&perks=1359896290,699525795
+
+// True Prophecy (PvP)
+//notes:PvP-
+dimwishlist:item=2742838700&perks=47981717,3038247973
+dimwishlist:item=2742838700&perks=47981717,1954620775
+dimwishlist:item=2742838700&perks=2846385770,1954620775
+dimwishlist:item=2742838700&perks=2846385770,3038247973
+
+// Dire Promise (PvP)
+//notes:PvP-
+dimwishlist:item=2742838701&perks=47981717,2846385770
+
+// Quickfang (PvE)
+//notes:PvE-
+dimwishlist:item=2782325300&perks=1749209109,354401740
+
+// Eternity's Edge (PvE)
+//notes:PvE-
+dimwishlist:item=2782325301&perks=1749209109,354401740
+
+// Crown-Splitter (PvE)
+//notes:PvE-
+dimwishlist:item=2782325302&perks=1749209109,3913600130
+
+// Honor's Edge (PvE)
+//notes:PvE-
+dimwishlist:item=2857348871&perks=2590710093,1685431615
+
+// Timelines' Vertex (PvP)
+//notes:PvP-
+dimwishlist:item=3055192515&perks=3300816228,1600092898
+
+// Memory Interdict (PvE)
+//notes:PvE-
+dimwishlist:item=3165547384&perks=3300816228,2396489472
+dimwishlist:item=3165547384&perks=2284787283,2396489472
+dimwishlist:item=3165547384&perks=951095735,2396489472
+
+// Tarantula (PvP)
+//notes:PvP-
+dimwishlist:item=3335343363&perks=588594999,957782887
+dimwishlist:item=3335343363&perks=588594999,2551157718
+
+// Legal Action II (PvE)
+//notes:PvE-
+dimwishlist:item=3409645497&perks=2779035018,3425386926
+dimwishlist:item=3409645497&perks=2779035018,4104185692
+
+// Eternal Blazon (PvP)
+//notes:PvP-
+dimwishlist:item=3514096004&perks=247725512,2846385770
+dimwishlist:item=3514096004&perks=2450788523,2846385770
+
+// First In, Last Out (PvP)
+//notes:PvP-
+dimwishlist:item=3616586446&perks=1866048759,47981717
+dimwishlist:item=3616586446&perks=3161816588,47981717
+
+// Negative Space (PvE)
+//notes:PvE-
+dimwishlist:item=3629968765&perks=1749209109,3913600130
+
+// Hoosegow (PvE)
+//notes:PvE-
+dimwishlist:item=3669616453&perks=3300816228,1275731761
+dimwishlist:item=3669616453&perks=2869569095,1275731761
+
+// Shepherd's Watch (PvP)
+//notes:PvP-
+dimwishlist:item=3743729616&perks=588594999,957782887
+dimwishlist:item=3743729616&perks=588594999,47981717
+dimwishlist:item=3743729616&perks=2866798147,47981717
+dimwishlist:item=3743729616&perks=2866798147,957782887
+
