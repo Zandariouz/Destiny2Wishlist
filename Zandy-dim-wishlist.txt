@@ -5,6 +5,7 @@ description:Rolls that friends and I consider good. Craftable weapons, side arms
 //notes:PvP-
 dimwishlist:item=372697604&perks=699525795,47981717
 dimwishlist:item=372697604&perks=699525795,2846385770
+dimwishlist:item=372697604&perks=247725512,47981717
 
 // Perses-D (PvE)
 //notes:PvE-
@@ -27,7 +28,7 @@ dimwishlist:item=2852052802&perks=1820235745,4049631843
 dimwishlist:item=2852052802&perks=1583705720,4049631843
 
 // Funnelweb (PvE)
-//notes:PvE-
+//notes:PvE- Saskia is an adorable and lovable muffin
 dimwishlist:item=3341893443&perks=1820235745,4104185692
 
 // Typhon GL5 (PvE)
@@ -370,6 +371,7 @@ dimwishlist:item=1866778462&perks=3300816228,3194351027
 //notes:PvP-
 dimwishlist:item=1019000888&perks=247725512,3038247973
 dimwishlist:item=1019000888&perks=1428297954,3038247973
+dimwishlist:item=1019000888&perks=247725512,47981717
 
 // Funnelweb (PvP)
 //notes:PvP-
@@ -1251,12 +1253,20 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627
 dimwishlist:item=2171478765&perks=3038247973,47981717
 dimwishlist:item=2171478765&perks=3038247973,699525795
 dimwishlist:item=2171478765&perks=2946784966,1015611457
+dimwishlist:item=2171478765&perks=2450788523,1015611457
+dimwishlist:item=2171478765&perks=3038247973,1015611457
+dimwishlist:item=2171478765&perks=2450788523,699525795
+dimwishlist:item=2171478765&perks=2450788523,47981717
 
 // Fatebringer (Timelost) (PvP)
 //notes:PvP-
 dimwishlist:item=1216319404&perks=2946784966,1015611457
 dimwishlist:item=1216319404&perks=3038247973,47981717
 dimwishlist:item=1216319404&perks=3038247973,699525795
+dimwishlist:item=1216319404&perks=2450788523,699525795
+dimwishlist:item=1216319404&perks=2450788523,1015611457
+dimwishlist:item=1216319404&perks=2450788523,47981717
+dimwishlist:item=1216319404&perks=3038247973,1015611457
 
 // Fatebringer (Timelost) (PvE)
 //notes:PvE-
