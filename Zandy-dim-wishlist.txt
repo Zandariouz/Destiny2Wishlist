@@ -15,6 +15,7 @@ dimwishlist:item=1019000888&perks=1583705720,124408337
 // Fugue-55 (PvP)
 //notes:PvP-
 dimwishlist:item=2233545123&perks=2866798147,957782887
+dimwishlist:item=2233545123&perks=2866798147,588594999
 
 // Ogma PR6 (PvE)
 //notes:PvE-
@@ -101,6 +102,8 @@ dimwishlist:item=875848769&perks=2450788523,3425386926
 dimwishlist:item=1046651176&perks=1820235745,3038247973
 dimwishlist:item=1046651176&perks=1168162263,2848615171
 dimwishlist:item=1046651176&perks=1168162263,3425386926
+dimwishlist:item=1046651176&perks=1820235745,2848615171
+dimwishlist:item=1046651176&perks=1820235745,3425386926
 
 // Servant Leader (PvE)
 //notes:PvE-
@@ -527,11 +530,6 @@ dimwishlist:item=42351395&perks=2010801679,2396489472
 // Subzero Salvo (PvP)
 //notes:PvP-
 dimwishlist:item=42351395&perks=706527188,1275731761
-
-// Biting Winds (PvE)
-//notes:PvE-
-dimwishlist:item=1621657423&perks=247725512,3365897133
-dimwishlist:item=1621657423&perks=247725512,4082225868
 
 // Thermal Erosion (PvE)
 //notes:PvE-
@@ -1914,3 +1912,41 @@ dimwishlist:item=1107446438&perks=247725512,1015611457
 dimwishlist:item=1107446438&perks=247725512,3425386926
 dimwishlist:item=1107446438&perks=1168162263,1015611457
 dimwishlist:item=1107446438&perks=2450788523,3425386926
+
+// Finite Impactor (PvP)
+//notes:PvP-
+dimwishlist:item=3813153080&perks=2450788523,591790007
+
+// Biting Winds (PvP)
+//notes:PvP-
+dimwishlist:item=1621657423&perks=588594999,2846385770
+dimwishlist:item=1621657423&perks=588594999,3365897133
+dimwishlist:item=1621657423&perks=2866798147,3365897133
+dimwishlist:item=1621657423&perks=2866798147,2846385770
+dimwishlist:item=1621657423&perks=2450788523,2846385770
+dimwishlist:item=1621657423&perks=2450788523,3365897133
+
+// Biting Winds (PvE)
+//notes:PvE-
+dimwishlist:item=1621657423&perks=247725512,4082225868
+
+// Fugue-55 (PvE)
+//notes:PvE-
+dimwishlist:item=2233545123&perks=1354429876,1546637391
+dimwishlist:item=2233545123&perks=1354429876,2896038713
+dimwishlist:item=2233545123&perks=1354429876,1771339417
+
+// Bottom Dollar (PvP)
+//notes:PvP-
+dimwishlist:item=1046651176&perks=247725512,3038247973
+dimwishlist:item=1046651176&perks=247725512,47981717
+dimwishlist:item=1046651176&perks=247725512,699525795
+dimwishlist:item=1046651176&perks=247725512,3425386926
+dimwishlist:item=1046651176&perks=2846385770,47981717
+dimwishlist:item=1046651176&perks=2846385770,3038247973
+dimwishlist:item=1046651176&perks=2846385770,699525795
+dimwishlist:item=1046651176&perks=2846385770,3425386926
+dimwishlist:item=1046651176&perks=2450788523,3425386926
+dimwishlist:item=1046651176&perks=2450788523,699525795
+dimwishlist:item=1046651176&perks=2450788523,3038247973
+dimwishlist:item=1046651176&perks=2450788523,47981717
